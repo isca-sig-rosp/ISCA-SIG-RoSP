@@ -11,3 +11,5 @@ To do so, just email [Marc Delcroix](mailto:marc.delcroix@lab.ntt.co.jp) or [Shi
 Once we have created your account, click on one of the links below and follow the guidelines.
 
 # Join the SIG - Google/LinkedIn groups
+
+[test](https://github.com/isca-sig-rosp/isca-sig-rosp/blob/master/test.md)
