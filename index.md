@@ -17,7 +17,7 @@ See the SIG constitution for more information. Membership is free of charge and 
 
 To join, just register to our [Google group](https://groups.google.com/forum/#!forum/rosp-sig).
 
-You are also welcome to join our [LinkeIn](https://www.linkedin.com/groups/Robust-Speech-Processing-6744473) group
+You are also welcome to join our [LinkeIn](https://www.linkedin.com/groups/6744473/) group
 
 # Datasets
 
