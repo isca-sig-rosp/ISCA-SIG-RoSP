@@ -26,8 +26,6 @@ This page provides a list of datasets, with corresponding software baselines and
 # Software
 This page provides a list of speech processing software and corresponding application recipes for different datasets.
 
-# Best practices
-
 # SIG events
 - [HSCMA 2014](http://hscma2014.inria.fr/)
 - [3rd CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/chime2015/)
