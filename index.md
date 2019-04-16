@@ -36,7 +36,7 @@ This page provides a list of speech processing software and corresponding applic
 - [5th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/)
 
 # Other resources
-- RoSP SIG constitution
+- [RoSP SIG constitution](https://github.com/isca-sig-rosp/isca-sig-rosp/blob/master/constitution.html)
 - List of SIG members
 
 # Officer and working group contacts
@@ -44,5 +44,3 @@ This page provides a list of speech processing software and corresponding applic
 - Past officers (2016-2018): Chairperson: Emmanuel Vincent, Secretary: Ramon F. Astudillo
 - Past officers (2014-2016): Chairperson: Emmanuel Vincent, Secretary: Ramon F. Astudillo, Honorary Chair: John L. Hansen
 - Past officers (2012-2014): Emmanuel Vincent and Ramon F. Astudillo
-
-[test](https://github.com/isca-sig-rosp/isca-sig-rosp/blob/master/test.html)
