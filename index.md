@@ -15,9 +15,9 @@ Once we have created your account, click on one of the links below and follow th
 You are encouraged to join the SIG to benefit from our announcements of recent research developments and other matters of interest in Robust Speech Processing. 
 See the SIG constitution for more information. Membership is free of charge and ISCA membership is not required.
 
-To join, just register to our [Google group]().
+To join, just register to our [Google group](https://groups.google.com/forum/#!forum/rosp-sig).
 
-You are also welcome to join our [LinkeIn]() group
+You are also welcome to join our [LinkeIn](https://www.linkedin.com/groups/Robust-Speech-Processing-6744473) group
 
 # Datasets
 
