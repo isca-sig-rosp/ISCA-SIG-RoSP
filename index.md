@@ -36,7 +36,7 @@ This page provides a list of speech processing software and corresponding applic
 - [5th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/)
 
 # Other resources
-- [RoSP SIG constitution](https://github.com/isca-sig-rosp/isca-sig-rosp/blob/master/constitution.html)
+- [RoSP SIG constitution](https://isca-sig-rosp.github.io/isca-sig-rosp/constitution.html)
 - List of SIG members
 
 # Officer and working group contacts
