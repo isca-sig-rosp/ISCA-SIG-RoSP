@@ -31,11 +31,11 @@ This page provides a list of speech processing software and corresponding applic
 # SIG events
 - [HSCMA 2014](http://hscma2014.inria.fr/)
 - [3rd CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/chime2015/)
-- Interspeech 2016 Special Session on Realism in Robust Speech Processing
-- 4th CHiME Speech Separation and Recognition Challenge
-- 4th International Workshop on Speech Processing in Everyday Environments
-- 5th CHiME Speech Separation and Recognition Challenge
-- 5th International Workshop on Speech Processing in Everyday Environments
+- [Interspeech 2016 Special Session on Realism in Robust Speech Processing](http://www.interspeech2016.org/Technical-Program)
+- [4th CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/chime2016/)
+- [4th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/chime2016/)
+- [5th CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/)
+- [5th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/)
 
 # Other resources
 - RoSP SIG constitution
