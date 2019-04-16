@@ -12,4 +12,4 @@ Once we have created your account, click on one of the links below and follow th
 
 # Join the SIG - Google/LinkedIn groups
 
-[test](https://github.com/isca-sig-rosp/isca-sig-rosp/blob/master/test.md)
+[test](https://github.com/isca-sig-rosp/isca-sig-rosp/blob/master/test.html)
