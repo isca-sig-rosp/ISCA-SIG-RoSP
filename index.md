@@ -34,7 +34,6 @@ This page provides a list of speech processing software and corresponding applic
 
 # Other resources
 - [RoSP SIG constitution](https://isca-sig-rosp.github.io/isca-sig-rosp/constitution.html)
-- List of SIG members
 
 # Officer and working group contacts
 - Officers (2018-2020): Chairperson: [Shinji Watanabe](mailto:shinjiw@ieee.org), Secretary: [Marc Delcroix](mailto:marc.delcroix@ieee.org)
