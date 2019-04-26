@@ -16,7 +16,7 @@ To join, just register to our [Google group](https://groups.google.com/forum/#!f
 
 You are also welcome to join our [LinkeIn](https://www.linkedin.com/groups/6744473/) group
 
-# [Datasets](https://isca-sig-rosp.github.io/isca-sig-rosp/datasets.html)
+# [Datasets](https://isca-sig-rosp.github.io/ISCA-SIG-RoSP/datasets.html)
 
 This page provides a list of datasets, with corresponding software baselines and evaluation results.
 
@@ -33,7 +33,7 @@ This page provides a list of speech processing software and corresponding applic
 - [5th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/)
 
 # Other resources
-- [RoSP SIG constitution](https://isca-sig-rosp.github.io/isca-sig-rosp/constitution.html)
+- [RoSP SIG constitution](https://isca-sig-rosp.github.io/ISCA-SIG-RoSP/constitution.html)
 
 # Officer and working group contacts
 - Officers (2018-2020): Chairperson: [Shinji Watanabe](mailto:shinjiw@ieee.org), Secretary: [Marc Delcroix](mailto:marc.delcroix@ieee.org)
