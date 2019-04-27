@@ -63,6 +63,6 @@ New datasets can be added to this page. In this case, please provide detailed in
 This is a list of noise datasets which can be used to generate simulated noisy speech.
 
 
-| datasets                                          | category                                           | total time (s)          | number of noise types    | sampling rate (kHz)         | number of mics       | release year         | cost (non-memb)          | links             |
+| datasets                                          | category                                           | total time (sec)        | number of noise types    | sampling rate (kHz)         | number of mics       | release year         | cost (non-memb)          | links             |
 |---------------------------------------------------|----------------------------------------------------|-------------------------|--------------------------|-------------------------|----------------------|-------------------|--------------------------|------------------|
 | 100 Nonspeech Sounds                              | nonstationary                                      | 293                      | 20                       | 20                      | 1                    | 2010              | free                     | [download](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) [paper](http://web.cse.ohio-state.edu/~wang.77/papers/Hu-Wang.taslp10.pdf)|
