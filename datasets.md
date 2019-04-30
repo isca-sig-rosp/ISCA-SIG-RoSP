@@ -1,5 +1,6 @@
 # Table of Contents
 1. [List of datasets for robust speech processing](#list-of-datasets-for-robust-speech-processing)
+2. [List of noise datasets](#list-of-noise-datasets)
 
 # List of datasets for robust speech processing
 
