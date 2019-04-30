@@ -58,3 +58,14 @@ New datasets can be added to this page. In this case, please provide detailed in
 | Sheffield Wargames Corpus                         | cocktail party                       | UK English                     | spontaneous                        | 7                  | 92                  | 3          | 2013        | free                         | to add |
 | DIRHA                                             | domestic                             | various                        | command, read, spontaneous         | 11                 | 40                  | no         | 2014        | free (partial avail.)        | to add |
 | CHiME 3                                           | public spaces                        | US English                     | read                               | 48                 | 6                   | no         | 2015        | free given WSJ0 (1.5 k$)     | to add |      |
+
+
+
+# List of noise datasets
+
+This is a list of noise datasets which can be used to generate simulated noisy speech.
+
+
+| datasets                                          | category                                           | total time (sec)        | number of noise types    | sampling rate (kHz)         | number of mics       | release year         | cost (non-memb)          | links             |
+|---------------------------------------------------|----------------------------------------------------|-------------------------|--------------------------|-------------------------|----------------------|-------------------|--------------------------|------------------|
+| 100 Nonspeech Sounds                              | nonstationary                                      | 293                      | 20                       | 20                      | 1                    | 2010              | free                     | [download](http://web.cse.ohio-state.edu/pnl/corpus/HuNonspeech/HuCorpus.html) [paper](http://web.cse.ohio-state.edu/~wang.77/papers/Hu-Wang.taslp10.pdf)|
