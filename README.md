@@ -15,9 +15,9 @@ $ bundle exec jekyll serve
 
 The website should now be available at `127.0.0.1:4000`.
 
-## Dataset API scripts
+## Dataset app scripts
 
-The Dataset page uses Google API scripts to pull data from Google sheets and to submit data from the form. 
+The Dataset page uses Google App scripts to pull data from Google sheets and to submit data from the form. 
 Please contact Desh Raj at `r.desh26@gmail.com` to access these APIs.
 
 The dataset master spreadsheet is available [here](https://docs.google.com/spreadsheets/d/16U_v_HRW4KnAaNkBUtcgtwXNO1xArnvXg1ihRhBbMJo/edit?usp=sharing) (read-only).
