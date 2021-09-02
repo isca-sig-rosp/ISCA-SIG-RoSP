@@ -14,9 +14,9 @@ See the SIG constitution for more information. Membership is free of charge and 
 
 To join, just register to our [Google group](https://groups.google.com/forum/#!forum/rosp-sig).
 
-You are also welcome to join our [LinkeIn](https://www.linkedin.com/groups/6744473/) group
+You are also welcome to join our [LinkedIn](https://www.linkedin.com/groups/6744473/) group
 
-# [Datasets](https://isca-sig-rosp.github.io/ISCA-SIG-RoSP/datasets.html)
+# [Datasets](/datasets.md)
 
 This page provides a list of datasets, with corresponding software baselines and evaluation results.
 
@@ -24,13 +24,15 @@ This page provides a list of datasets, with corresponding software baselines and
 This page provides a list of speech processing software and corresponding application recipes for different datasets.
 
 # SIG events
-- [HSCMA 2014](http://hscma2014.inria.fr/)
+- [4th Joint Workshop on Hands-free Speech Communication and Microphone Arrays](http://hscma2014.inria.fr/)
 - [3rd CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/chime2015/)
 - [Interspeech 2016 Special Session on Realism in Robust Speech Processing](http://www.interspeech2016.org/Technical-Program)
 - [4th CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/chime2016/)
 - [4th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/chime2016/)
+- [2017 Hands-free Speech Communication and Microphone Arrays](https://signalprocessingsociety.org/blog/hscma-2017-2017-hands-free-speech-communication-and-microphone-arrays)
 - [5th CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/)
 - [5th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/)
+- [6th CHiME Speech Separation and Recognition Challenge](https://chimechallenge.github.io/chime6/)
 
 # Other resources
 - [RoSP SIG constitution](https://isca-sig-rosp.github.io/ISCA-SIG-RoSP/constitution.html)
