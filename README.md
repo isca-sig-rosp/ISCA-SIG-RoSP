@@ -10,14 +10,16 @@ This website is based on Jekyll. Install Jekyll using the Ruby gem installer ins
 
 ```bash
 $ bundle install
+$ bundle update
 $ bundle exec jekyll serve
 ```
 
 The website should now be available at `127.0.0.1:4000`.
 
-## Dataset app scripts
+## App scripts
 
-The Dataset page uses Google App scripts to pull data from Google sheets and to submit data from the form. 
+The Datasets and Software pages uses Google App scripts to interface with underlying data. 
 Please contact Desh Raj at `r.desh26@gmail.com` to access these APIs.
 
-The dataset master spreadsheet is available [here](https://docs.google.com/spreadsheets/d/16U_v_HRW4KnAaNkBUtcgtwXNO1xArnvXg1ihRhBbMJo/edit?usp=sharing) (read-only).
+* The `dataset` master spreadsheet is available [here](https://docs.google.com/spreadsheets/d/16U_v_HRW4KnAaNkBUtcgtwXNO1xArnvXg1ihRhBbMJo/edit?usp=sharing) (read-only).
+* The `software` master spreadsheet is available [here](https://docs.google.com/spreadsheets/d/1TLB0TqtssE9bvOf2ByLMOMnkBHxphmOhqCcBE133t7s/edit?usp=sharing)
