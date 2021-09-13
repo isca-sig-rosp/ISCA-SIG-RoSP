@@ -22,4 +22,5 @@ The Datasets and Software pages uses Google App scripts to interface with underl
 Please contact Desh Raj at `r.desh26@gmail.com` to access these APIs.
 
 * The `dataset` master spreadsheet is available [here](https://docs.google.com/spreadsheets/d/16U_v_HRW4KnAaNkBUtcgtwXNO1xArnvXg1ihRhBbMJo/edit?usp=sharing) (read-only).
-* The `software` master spreadsheet is available [here](https://docs.google.com/spreadsheets/d/1TLB0TqtssE9bvOf2ByLMOMnkBHxphmOhqCcBE133t7s/edit?usp=sharing)
+* The `software` master spreadsheet is available [here](https://docs.google.com/spreadsheets/d/1TLB0TqtssE9bvOf2ByLMOMnkBHxphmOhqCcBE133t7s/edit?usp=sharing).
+* The "Submit Dataset" form is available [here](https://forms.gle/PBQ5ipjqTEsDwhYZ9).
