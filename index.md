@@ -25,6 +25,8 @@ Welcome to the wiki of ISCA's Special Interest Group (SIG) on Robust Speech Proc
 
 # SIG events
 
+* __2021__
+    - [ConferencingSpeech 2021](https://tea-lab.qq.com/conferencingspeech-2021)
 * __2020__
     - [6th CHiME Speech Separation and Recognition Challenge](https://chimechallenge.github.io/chime6/)
 * __2018__
