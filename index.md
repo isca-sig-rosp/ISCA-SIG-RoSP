@@ -24,13 +24,16 @@ Welcome to the wiki of ISCA's Special Interest Group (SIG) on Robust Speech Proc
 * [6th CHiME Speech Separation and Recognition Challenge](https://www.isca-speech.org/archive_v0/CHiME_2020)
 
 # Related activities (Challenges, workshops, special issues etc)
-
-* __2021__
+* __2022__
+    - [Clarity Challenge](https://claritychallenge.org/)
     - [Deep Noise Suppression Challenge – ICASSP 2022](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2022/)
     - [Acoustic Echo Cancellation Challenge – ICASSP 2022](https://www.microsoft.com/en-us/research/academic-program/acoustic-echo-cancellation-challenge-icassp-2022/)
     - [MISP Challenge 2021](https://mispchallenge.github.io/)
     - [ICASSP 2022 MULTI-CHANNEL MULTI-PARTY MEETING TRANSCRIPTION CHALLENGE (M2MeT)](https://www.alibabacloud.com/m2met-alimeeting)
     - [L3DAS22: Machine Learning for 3D Audio Signal Processing](https://www.l3das.com/icassp2022/)
+
+* __2021__
+    - [Clarity Challenge - Clarity-2021 Workshop](https://claritychallenge.org/)
     - [ConferencingSpeech 2021](https://tea-lab.qq.com/conferencingspeech-2021)
 * __2020__
     - [6th CHiME Speech Separation and Recognition Challenge](https://chimechallenge.github.io/chime6/)
