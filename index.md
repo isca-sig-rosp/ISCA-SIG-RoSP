@@ -23,7 +23,7 @@ Welcome to the wiki of ISCA's Special Interest Group (SIG) on Robust Speech Proc
 * [5th CHiME Speech Separation and Recognition Challenge](https://www.isca-speech.org/archive_v0/CHiME_2018)
 * [6th CHiME Speech Separation and Recognition Challenge](https://www.isca-speech.org/archive_v0/CHiME_2020)
 
-# Related activities
+# Related activities (Challenges, workshops, special issues etc)
 
 * __2021__
     - [ConferencingSpeech 2021](https://tea-lab.qq.com/conferencingspeech-2021)
