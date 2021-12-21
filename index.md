@@ -75,7 +75,8 @@ Welcome to the wiki of ISCA's Special Interest Group (SIG) on Robust Speech Proc
 
 # Officer and working group contacts
 
-- Officers (2018-2020): Chairperson: [Shinji Watanabe](mailto:shinjiw@ieee.org), Secretary: [Marc Delcroix](mailto:marc.delcroix@ieee.org)
+- Officers (2021-2023): Chairperson: [Shinji Watanabe](mailto:shinjiw@ieee.org), Secretary: [Marc Delcroix](mailto:marc.delcroix@ieee.org)
+- Past Officers (2018-2020): Chairperson: Shinji Watanabe, Secretary: Marc Delcroix
 - Past officers (2016-2018): Chairperson: Emmanuel Vincent, Secretary: Ramon F. Astudillo
 - Past officers (2014-2016): Chairperson: Emmanuel Vincent, Secretary: Ramon F. Astudillo, Honorary Chair: John L. Hansen
 - Past officers (2012-2014): Emmanuel Vincent and Ramon F. Astudillo
