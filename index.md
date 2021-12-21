@@ -23,6 +23,26 @@ Welcome to the wiki of ISCA's Special Interest Group (SIG) on Robust Speech Proc
 * [5th CHiME Speech Separation and Recognition Challenge](https://www.isca-speech.org/archive_v0/CHiME_2018)
 * [6th CHiME Speech Separation and Recognition Challenge](https://www.isca-speech.org/archive_v0/CHiME_2020)
 
+# Related activities
+
+* __2021__
+    - [ConferencingSpeech 2021](https://tea-lab.qq.com/conferencingspeech-2021)
+* __2020__
+    - [6th CHiME Speech Separation and Recognition Challenge](https://chimechallenge.github.io/chime6/)
+* __2018__
+    - [5th CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/)
+    - [5th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/)
+* __2017__
+    - [2017 Hands-free Speech Communication and Microphone Arrays](https://signalprocessingsociety.org/blog/hscma-2017-2017-hands-free-speech-communication-and-microphone-arrays)
+* __2016__
+    - [Interspeech 2016 Special Session on Realism in Robust Speech Processing](http://www.interspeech2016.org/Technical-Program)
+    - [4th CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/chime2016/)
+    - [4th International Workshop on Speech Processing in Everyday Environments](http://spandh.dcs.shef.ac.uk/chime_workshop/chime2016/)
+* __2015__
+    - [3rd CHiME Speech Separation and Recognition Challenge](http://spandh.dcs.shef.ac.uk/chime_challenge/chime2015/)
+* __2014__
+    - [4th Joint Workshop on Hands-free Speech Communication and Microphone Arrays](http://hscma2014.inria.fr/)
+
 # SIG events
 
 * __2021__
