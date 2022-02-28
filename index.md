@@ -27,6 +27,7 @@ Welcome to the wiki of ISCA's Special Interest Group (SIG) on Robust Speech Proc
 # SIG events
 * __2022__
     - [MISP Challenge 2021](https://mispchallenge.github.io/)
+    - [ICASSP 2022 MULTI-CHANNEL MULTI-PARTY MEETING TRANSCRIPTION CHALLENGE (M2MeT)](https://www.alibabacloud.com/m2met-alimeeting)
     - [L3DAS22: Machine Learning for 3D Audio Signal Processing](https://www.l3das.com/icassp2022/)
 * __2021__
     - [ConferencingSpeech 2021](https://tea-lab.qq.com/conferencingspeech-2021)
