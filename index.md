@@ -1,4 +1,4 @@
-Welcome to the wiki of ISCA's Special Interest Group (SIG) on Robust Speech Processing (RoSP). This webpage aims to be a repository of resources for researchers interested in Robust Speech Processing.
+Welcome to the webpage of ISCA's Special Interest Group (SIG) on Robust Speech Processing (RoSP). This webpage aims to be a repository of resources for researchers interested in Robust Speech Processing.
 
 # Join and Contribute
 
