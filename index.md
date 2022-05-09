@@ -26,6 +26,7 @@ Welcome to the webpage of ISCA's Special Interest Group (SIG) on Robust Speech P
 
 # SIG events
 * __2022__
+    - [SUPERB Challenge @ SLT 2022](https://superbbenchmark.org/challenge-slt2022/challenge_overview)
     - [MISP Challenge 2021](https://mispchallenge.github.io/)
     - [ICASSP 2022 MULTI-CHANNEL MULTI-PARTY MEETING TRANSCRIPTION CHALLENGE (M2MeT)](https://www.alibabacloud.com/m2met-alimeeting)
     - [L3DAS22: Machine Learning for 3D Audio Signal Processing](https://www.l3das.com/icassp2022/)
@@ -49,6 +50,7 @@ Welcome to the webpage of ISCA's Special Interest Group (SIG) on Robust Speech P
 
 # Related activities (Challenges, workshops, special issues etc)
 * __2022__
+    - [SUPERB Challenge @ SLT 2022](https://superbbenchmark.org/challenge-slt2022/challenge_overview)
     - [Clarity Challenge](https://claritychallenge.org/)
     - [Deep Noise Suppression Challenge – ICASSP 2022](https://www.microsoft.com/en-us/research/academic-program/deep-noise-suppression-challenge-icassp-2022/)
     - [Acoustic Echo Cancellation Challenge – ICASSP 2022](https://www.microsoft.com/en-us/research/academic-program/acoustic-echo-cancellation-challenge-icassp-2022/)
