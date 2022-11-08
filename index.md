@@ -12,6 +12,10 @@ Welcome to the webpage of ISCA's Special Interest Group (SIG) on Robust Speech P
 
 <!-- You are also welcome to join our [LinkedIn](https://www.linkedin.com/groups/6744473/) group -->
 
+# CHiME challenge
+
+* [The CHiME challenge](https://www.chimechallenge.org/) is a flagship workshop in the ISCA SIG RoSP. From CHiME-7, the CHiME project introduced a more open model, where the annual CHiME Challenge features independent tasks organised by teams who work within a schedule defined by the CHiME Steering Group. Teams will be responsible for managing the tasks, i.e., providing data and instructions, scoring submissions and results, etc. The CHiME Steering Group will then work to support teams in the development of their task. The Steering Group will also organise a CHiME workshop where the tasks will be presented.
+
 # Resources
 
 * [Datasets](/datasets.md): This page provides a list of datasets for robust speech processing.
@@ -26,6 +30,7 @@ Welcome to the webpage of ISCA's Special Interest Group (SIG) on Robust Speech P
 
 # SIG events
 * __2022__
+    - [7th CHiME Speech Separation and Recognition Challenge](https://www.chimechallenge.org/)
     - [SUPERB Challenge @ SLT 2022](https://superbbenchmark.org/challenge-slt2022/challenge_overview)
     - [MISP Challenge 2021](https://mispchallenge.github.io/)
     - [ICASSP 2022 MULTI-CHANNEL MULTI-PARTY MEETING TRANSCRIPTION CHALLENGE (M2MeT)](https://www.alibabacloud.com/m2met-alimeeting)
