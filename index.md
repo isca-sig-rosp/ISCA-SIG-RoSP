@@ -28,7 +28,7 @@ Welcome to the webpage of ISCA's Special Interest Group (SIG) on Robust Speech P
 * [5th CHiME Speech Separation and Recognition Challenge](https://www.isca-speech.org/archive/chime_2018/index.html)
 * [1st CHiME Speech Separation and Recognition Challenge](https://www.isca-speech.org/archive/chime_2011/index.html)
 
-# SIG events
+# RoSP SIG events endorsed by ISCA
 * __2024__
     - [8th CHiME Speech Separation and Recognition Challenge](https://www.chimechallenge.org/)
     - [2024 Hands-free Speech Communication and Microphone Arrays](https://sites.google.com/view/hscma2024/home)
