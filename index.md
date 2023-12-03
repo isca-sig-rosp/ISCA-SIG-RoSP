@@ -32,7 +32,6 @@ Welcome to the webpage of ISCA's Special Interest Group (SIG) on Robust Speech P
 * __2024__
     - [8th CHiME Speech Separation and Recognition Challenge](https://www.chimechallenge.org/)
     - [2024 Hands-free Speech Communication and Microphone Arrays](https://sites.google.com/view/hscma2024/home)
-    - [2024 Self-supervision in Audio, Speech and Beyond Workshop](https://sites.google.com/view/icasspsasb2024)
 * __2023__
     - [7th CHiME Speech Separation and Recognition Challenge](https://www.chimechallenge.org/workshops/chime2023/index)
     - [7th CHiME Speech Separation and Recognition Challenge](https://www.chimechallenge.org/challenges/chime7/index)
@@ -61,6 +60,8 @@ Welcome to the webpage of ISCA's Special Interest Group (SIG) on Robust Speech P
     - [4th Joint Workshop on Hands-free Speech Communication and Microphone Arrays](http://hscma2014.inria.fr/)
 
 # Related activities (Challenges, workshops, special issues etc)
+* __2024__
+    - [2024 Self-supervision in Audio, Speech and Beyond Workshop](https://sites.google.com/view/icasspsasb2024)
 * __2022__
     - [SUPERB Challenge @ SLT 2022](https://superbbenchmark.org/challenge-slt2022/challenge_overview)
     - [Clarity Enhancement Challenge - Clarity Enhancement Workshop 2022](https://claritychallenge.org/)
