@@ -3,15 +3,18 @@
 # Statement of purpose
 The purpose of the International Speech Communication Association (ISCA) Special Interest Group on Robust Speech Processing (the SIG) shall be
 
-- to promote interest in Robust Speech Processing;
-- to provide members of ISCA with a special interest in Robust Speech Processing with a means of exchanging news of recent research developments and other matters of interest in Robust Speech Processing;
-- to promote better understanding of the robustness challenges posed by real-world speech applications at various levels, including (but not limited to) the acoustic level (channel change, reverberation, background noise, overlapping speech...), the speaker level (stressed speech, Lombard speech, speaker change, change of speaking rate, accent...) and the language level (dialect, topic change...);
-- to facilitate the development of theoretical foundations and practical techniques addressing these challenges by means of shared goals and terminology;
-- to call attention to the applications of these techniques, including (but not limited to) automatic speech recognition, speaker identification and verification, spoken document retrieval, dialogue, speech-to-speech translation, speaker localization, speech separation, human-machine interfaces, robust training for synthesis;
-- to create a scientific link between researchers and others working in the various disciplines associated with Robust Speech Processing;
-- to provide and make available resources relevant to Robust Speech Processing, including speech and text corpora, best-practice processing and evaluation methodologies, processing and evaluation software, research papers and generated data;
-- to propose reviewers for ISCA conferences and workshops and to nominate outstanding members for ISCA awards;
-- and to sponsor meetings, workshops and evaluation campaigns in Robust Speech Processing that appear to be timely and worthwhile, operating within the framework of ISCA's by-laws for SIGs.
+<ul>
+<li>to promote interest in Robust Speech Processing;</li>
+<li>to provide members of ISCA with a special interest in Robust Speech Processing with a means of exchanging news of recent research developments and other matters of interest in Robust Speech Processing;</li>
+<li>to promote better understanding of the robustness challenges posed by real-world speech applications at various levels, including (but not limited to) the acoustic level (channel change and diverse recording setups, reverberation, background noise, overlapping speech...), the speaker level (stressed speech, Lombard speech, speaker change, change of speaking rate, accent...) and the language level (dialect, topic change...);</li>
+<li>to facilitate the development of theoretical foundations and practical techniques addressing these challenges by means of shared goals, terminology, metrics and evaluation campaigns;</li>
+<li>to call attention to the applications of these techniques, including (but not limited to) automatic speech recognition, diarization, speaker identification and verification, spoken document retrieval, dialogue and spoken language understanding, speech-to-speech translation, speaker localization, speech separation and enhancement, human-machine interaction and robust training for speech synthesis;</li>
+<li>to create a scientific link between researchers and others working in the various disciplines associated with Robust Speech Processing;</li>
+<li>to provide and make available resources relevant to Robust Speech Processing, including speech and text corpora, best-practice processing and evaluation methodologies, processing and evaluation software, research papers and generated data;</li>
+<li>Encourage diversity within the speech processing field and promote inclusivity by making sure that researchers from different backgrounds, cultures and genders feel welcomed and have equal opportunities to contribute;</li>
+<li>Propose reviewers for ISCA conferences and workshops and to nominate outstanding members for ISCA awards;</li>
+<li>and to sponsor meetings, workshops and evaluation campaigns in Robust Speech Processing that appear to be timely and worthwhile, operating within the framework of ISCA's by-laws for SIGs.</li>
+</ul>
 
 # Membership
 Any person may become a member of the SIG by registering to the SIG mailing list or by any other appropriate means. Membership of ISCA is not required.
